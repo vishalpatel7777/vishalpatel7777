@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Patel</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalpatel7777&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpatel7777" />
-</p>
+
 
 ---
 
@@ -54,6 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpatel7777&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpatel7777" alt="GitHub Streak" />
-</p>
+
