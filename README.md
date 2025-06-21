@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishal Patel</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpatel7777&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpatel7777" /> </p>
+
 - 📫 How to reach me **patelvishal14642@gmail.com**
 
 - ⚡ Fun fact **I'm on a journey to learn everything about tech! If you know something cool, feel free to share — I’m always up for learning. I'm friendly, so don’t hesitate to say hi or help me out! 😊💻🌍**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,3 +15,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://coff.ee/vishalpatel7777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/vishalpatel7777" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpatel7777&show_icons=true&locale=en&layout=compact" alt="vishalpatel7777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpatel7777&" alt="vishalpatel7777" /></p>
