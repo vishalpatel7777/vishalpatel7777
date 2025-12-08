@@ -47,9 +47,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpatel7777&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=vishalpatel7777&theme=transparent&hide_border=true" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Most%20Used%20Languages-JS%20%7C%20React%20%7C%20Node-blue?style=for-the-badge" />
 </p>
+
+
 
 
